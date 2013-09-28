@@ -1,0 +1,6 @@
+output/*
+old/*
+cache/*
+.doit.db.db
+
+*.pyc
