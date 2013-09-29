@@ -1,7 +1,6 @@
 uche.ogbuji.net
 ===============
 
-<<<<<<< HEAD
 Just my web site
 
 =======
@@ -20,4 +19,3 @@ Customized with bootstrap3-jinja theme and [simplex via Bootswatch](http://boots
     nikola install_theme bootstrap-jinja
     nikola install_theme bootstrap3-jinja
     nikola bootswatch_theme -s simplex -p bootstrap3-jinja #Then change from THEME = "bootstrap3" to THEME = "custom"
->>>>>>> 94d5f5b3422bda5494ed54227c7097e91142ccc6
