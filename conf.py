@@ -254,7 +254,7 @@ INDEX_PATH = "blog"
 # translated
 
 # Name of the theme to use.
-THEME = "custom"
+THEME = "simplex"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
