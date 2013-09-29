@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 import time
 
 # Configuration, please edit
@@ -14,7 +14,8 @@ SITE_URL = "http://uche.ogbuji.net/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "uche@ogbuji.net"
+#BLOG_EMAIL = "uche@ogbuji.net"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "Uche Ogbuji: Igbo-American poet, editor, computer engineer, entrepreneur, etc."
 
 # Nikola is multilingual!
@@ -92,12 +93,12 @@ NAVIGATION_LINKS = {
 #
 
 POSTS = (
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.txt", "blog", "post.tmpl"),
+    ("posts/*.md", "blog", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.txt", "stories", "story.tmpl"),
-    ("stories/*.rst", "stories", "story.tmpl"),
+    ("stories/*.txt", "", "story.tmpl"),
+    ("stories/*.md", "", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -152,7 +153,7 @@ COMPILERS = {
 # TAG_PAGES_ARE_INDEXES = True
 
 # Final location is output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "blog"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -253,7 +254,7 @@ COMPILERS = {
 # translated
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "custom"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -357,6 +358,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 #    .. pretty_url: False
 # to the metadata
 # PRETTY_URLS = False
+PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
