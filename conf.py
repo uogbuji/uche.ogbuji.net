@@ -61,9 +61,12 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/archive.html', 'Archives'),
-        ('/categories/index.html', 'Tags'),
-        ('/rss.xml', 'RSS'),
+        ('/lit', 'Lit'),
+        ('/tech', 'Tech'),
+        ('/ndewo', 'Ndewo, Colorado'),
+        #('/archive.html', 'Archives'),
+        #('/categories/index.html', 'Tags'),
+        #('/rss.xml', 'RSS'),
     ),
 }
 
@@ -254,7 +257,8 @@ INDEX_PATH = "blog"
 # translated
 
 # Name of the theme to use.
-THEME = "simplex"
+#THEME = "simplex"
+THEME = "ndewotime"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
