@@ -16,3 +16,8 @@ Customized with <del>bootstrap3-jinja theme and</del> [simplex via Bootswatch](h
 
     pip install requests
     nikola bootswatch_theme -n simplex -s simplex # -p bootstrap3-jinja #Then change from THEME = "bootstrap3" to THEME = "simplex"
+
+To deploy:
+
+	rsync -avz output/ ../uogbuji.github.com/
+
