@@ -7,6 +7,7 @@ Just my web site
 Uses:
 
  * [Nikola](http://getnikola.com/)
+  * [docs](http://getnikola.com/documentation.html)
   * [used as a site](http://getnikola.com/creating-a-site-not-a-blog-with-nikola.html)
  * [Bootstrap 3](http://getbootstrap.com/)  <del>[Foundation 4](http://foundation.zurb.com/)</del>
 

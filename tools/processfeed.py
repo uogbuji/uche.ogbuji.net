@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os, sys, datetime
 from dateutil import parser as dateparser #pip install python-dateutil
 
@@ -8,7 +9,35 @@ from amara.tools import atomtools
 from amara.writers.struct import structwriter, E, NS, ROOT, RAW, E_CURSOR
 from amara.namespaces import ATOM_NAMESPACE, XML_NAMESPACE, XHTML_NAMESPACE
 from amara.lib import U
-from amara.lib.util import strip_namespaces #,unwrap
+from amara.lib.util import strip_namespaces ,unwrap
+from amara.tree import text, element
+
+
+def process_pre_poem(node):
+    '''
+    >>> X = ['<div>', '<pre>The red cap chiefs stack up their wealth,', 'Shards of what once was bred in bone.', '', 'Church tales of wandering accursed&#8212;', 'It\'s forty years full fifty times;', '</pre>', '</div>']
+    >>> X = '\n'.join(X)
+    >>> doc = parse(X)
+    >>> process_pre_poem(doc.xml_first_child)
+    >>> doc.xml_write()
+    <?xml version="1.0" encoding="UTF-8"?>
+<div>
+<p>The red cap chiefs stack up their wealth,<br/>Shards of what once was bred in bone.<br/></p><p>Church tales of wandering accursed—<br/>It's forty years full fifty times;<br/><br/></p>
+</div>
+    '''
+    for pre in node.xml_select(u'.//pre'):
+        ptext = U(pre)
+        if pre.xml_first_child:
+            pre.xml_remove(pre.xml_first_child)
+        for stanza in ptext.split(u'\n\n'):
+            p = element(None, u'p')
+            pre.xml_append(p)
+            for line in stanza.split(u'\n'):
+                p.xml_append(text(line))
+                p.xml_append(element(None, u'br'))
+        unwrap(pre)
+    return
+
 
 def pretty_date(dt):
     #https://pypi.python.org/pypi/py-pretty
@@ -37,13 +66,13 @@ def xml_encode_fragment(nodes, encoding='utf-8'):
 
 
 def main_link(e):
-    for link in e.link:
+    for link in e.link or []:
         if not link.rel:
             return U(link.href)
 
 
 def other_links(e):
-    links = list(e.link)
+    links = list(e.link or [])
     for link in links:
         if not link.rel:
             links.remove(link)
@@ -66,6 +95,7 @@ class event_handler(object):
     def execute(self, e):
         summary = dumb_copy(e.summary.div)
         strip_namespaces(summary) #, strip_decls=True
+        process_pre_poem(summary)
         summary = xml_encode_fragment(summary.xml_children)
         summary = summary.replace(' xmlns:dc="http://purl.org/dc/elements/1.1/"', '')
         summary = summary.replace(' xmlns=""', '')
