@@ -9,6 +9,7 @@ Uses:
  * [Nikola](http://getnikola.com/)
   * [docs](http://getnikola.com/documentation.html)
   * [used as a site](http://getnikola.com/creating-a-site-not-a-blog-with-nikola.html)
+  * [jquery.cycle2](http://jquery.malsup.com/cycle2/)
  * [Bootstrap 3](http://getbootstrap.com/)  <del>[Foundation 4](http://foundation.zurb.com/)</del>
 
 More details:
