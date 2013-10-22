@@ -5,8 +5,8 @@
   <link rel="self" href="http://uche.ogbuji.net/feeds/publications.atom" />
   <link rel="alternate" type="text/html" href="http://uche.ogbuji.net/publications/" />
   <subtitle>Technical only</subtitle>
-  <updated>2013-10-01T12:30:01Z</updated>
-  <rights>Copyright 2000-2013 Uche Ogbuji</rights>
+  <updated>2009-04-12T12:30:01Z</updated>
+  <rights>Copyright 2000-2009 Uche Ogbuji</rights>
 
   <!-- New entries go here -->
   <!-- Don't forget to set the updated element above when you add a new entry -->
@@ -27,7 +27,7 @@
     <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
     <category term="xml"/>
     <category term="tech"/>
-    <updated>2013-02-17T12:00:00Z</updated>
+    <updated>2006-02-17T12:00:00Z</updated>
     <author>
       <name>Uche Ogbuji</name>
       <uri>http://uche.ogbuji.net</uri>
@@ -47,7 +47,7 @@
     <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
     <category term="xml"/>
     <category term="tech"/>
-    <updated>2013-02-17T12:00:00Z</updated>
+    <updated>2006-02-17T12:00:00Z</updated>
     <author>
       <name>Uche Ogbuji</name>
       <uri>http://uche.ogbuji.net</uri>
@@ -58,435 +58,7 @@
       </div>
     </summary>
   </entry>
-
-  <category term="outstanding!"/>
-
 -->
-
-<!--
-
-  http://www.slidefinder.net/s/semantic_microformats/semantic-microformats/451355/p2
-
--->
-
-  <entry>
-    <id>http://www.ibm.com/developerworks/web/library/wa-bootstrap/index.html</id>
-    <title>Rapid web development with Bootstrap</title>
-    <subtitle>Get your website designs off the ground with Twitter Bootstrap</subtitle>
-    <link href="http://www.ibm.com/developerworks/web/library/wa-bootstrap/index.html"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="css"/>
-    <category term="JavaScript"/>
-    <category term="html"/>
-    <category term="mobile"/>
-    <category term="responsive design"/>
-    <category term="tech"/>
-    <updated>2013-08-06T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Learn how to use Bootstrap to kickstart websites and web applications, including mobile-friendly ones. Bootstrap, which is based on the LESS project, was developed by Twitter's internal engineers to provide a consistent framework for web application UIs.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://www.ibm.com/developerworks/library/wa-less/</id>
-    <title>Do more in CSS with LESS</title>
-    <subtitle>Simplify the writing and maintenance of responsive design styles for modern web pages</subtitle>
-    <link href="http://www.ibm.com/developerworks/library/wa-less/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <link rel="seealso" href="https://www.ibm.com/developerworks/community/blogs/twodw/entry/efficient_and_maintainable_css_with_less?lang=en"/>
-    <category term="css"/>
-    <category term="html"/>
-    <category term="JavaScript"/>
-    <category term="Web"/>
-    <category term="tech"/>
-    <updated>2013-07-18T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Learn how to use LESS to write readable and maintainable Cascading Style Sheets (CSS) for modern websites. CSS makes the terrible old days of layout tricks with tables and invisible images a dim memory. But CSS is still unfriendly, and several initiatives tried to tame it for developers. One of the best is LESS, which extends CSS with dynamic behavior such as variables, mixins, operations, and functions. LESS is a CSS-like language that compiles seamlessly into CSS either on the client side or through server-side preprocessing. Also, check out the <a href="https://www.ibm.com/developerworks/community/blogs/twodw/entry/efficient_and_maintainable_css_with_less?lang=en">follow-up video interview</a>.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://semanticweb.com/the-art-of-linked-data-architecting-recollection_b23186</id>
-    <title>The Art of Linked Data: Architecting Recollection</title>
-    <subtitle></subtitle>
-    <link href="http://semanticweb.com/the-art-of-linked-data-architecting-recollection_b23186"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="semantic web"/>
-    <category term="data visuaization"/>
-    <category term="tech"/>
-    <updated>2011-09-20T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">From the earliest days of computer science we’ve recognized that humans are infuriatingly sloppy, and that computers are infuriatingly precise. The Web was the first information space to scale globally in part because its architecture struck a good balance between precision and sloppiness, but also because it supported user-friendly mechanisms for consuming its nodes (pictures, embedded audio and video, scripting, etc.)  Linked Data helps codify such balanced architecture when you want a little bit more controlled context, and at Zepheira we feel that the right user-centered application basics are key to empowering users with such control of context. Recollection is an example within the cultural heritage space, but also broadly applicable, of how such systems provide value in practice.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://www.ibm.com/developerworks/industry/library/ind-datagov/</id>
-    <title>Data.gov for government agencies</title>
-    <subtitle>Learn about the U.S. Federal Government's tool for open data</subtitle>
-    <link href="http://www.ibm.com/developerworks/industry/library/ind-datagov/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="government"/>
-    <category term="tech"/>
-    <category term="data visualization"/>
-    <category term="HTTP"/>
-    <updated>2012-02-28T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Because people are more aware of the value of open data, entire new economies have sprung up around its use and management. Sophisticated taxpayers often demand open access to public data from governments, and even less informed users want to know how this type of information enhances data services such as online maps and charts. In 2009, the U.S. Federal Government launched Data.gov, a site to aggregate feeds of government data. Pressure on agencies to publish information at Data.gov has been steady. The Open Government Directive of 2009 requires all Federal agencies to post at least three high-value data sets online and register them on Data.gov. In this article, learn about Data.gov, the basic information your agency needs to know to participate in this revolution in government, and ideas for doing so efficiently.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://www.ibm.com/developerworks/opensource/library/os-pypy-intro/index.html</id>
-    <title>Introducing PyPy</title>
-    <subtitle>An emerging implementation that combines science with practicality</subtitle>
-    <link href="http://www.ibm.com/developerworks/opensource/library/os-pypy-intro/index.html"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="pypy"/>
-    <category term="Web"/>
-    <category term="python"/>
-    <category term="greenlet"/>
-    <category term="co-routine"/>
-    <category term="programming"/>
-    <category term="html"/>
-    <updated>2012-02-14T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Improve the performance of your Python development and add flexibility with PyPy with just-in-time compiler implementation. Learn about PyPy, its benefits, and how it can accelerate development of high-performance applications.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think35/</id>
-    <title>Thinking XML: Good advice for creating XML</title>
-    <subtitle>Principles of XML design from the community at large</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think35/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <updated>2006-01-31T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The use of XML has become widespread, but much of it is not well formed. When it is well formed, it's often of poor design, which makes processing and maintenance very difficult. And much of the infrastructure for serving XML can compound these problems. In response, there has been some public discussion of XML best practices, such as Henri Sivonen's document, "HOWTO Avoid Being Called a Bozo When Producing XML." Uche Ogbuji frequently discusses XML best practices on IBM developerWorks, and in this column, he gives you his opinion about the main points discussed in such articles.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think36/</id>
-    <title>Thinking XML: Review of RFC 3470: Guidelines for the use of XML</title>
-    <subtitle>The IETF's take on XML best practices</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think36/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="IETF"/>
-    <category term="RFC"/>
-    <updated>2006-04-18T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Thinking XML author Uche Ogbuji continues with the theme of XML best practices. In the previous installment "Good advice for creating XML," you looked at XML design recommendations from experts. In this article, you'll find recommendations from the Internet Engineering Task Force (IETF), an organization whose technical papers drive most Internet protocols. The IETF's XML recommendations are gathered together in RFC 3470: "Guidelines for the Use of Extensible Markup Language (XML) within IETF Protocols.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think37/</id>
-    <title>Thinking XML: Manage XML data sets for security</title>
-    <subtitle>The need for security teaches the importance of controlling what XML goes where</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think37/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="tech"/>
-    <category term="XML"/>
-    <category term="security"/>
-    <category term="XPath injection"/>
-    <category term="XSLT"/>
-    <updated>2006-07-11T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Most developers have to learn a different playbook when they deal with XML and they're used to database technologies. XML's transparency requires a lot of care when you expose XML to applications on a network. Carelessness in this regard can lead to security breaches. Learn about the security implications of XML's transparency and how to avoid the vulnerabilities.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think39/</id>
-    <title>Thinking XML: Microformats the XML way</title>
-    <subtitle>Put microformats in perspective -- when are they a good choice?</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think39/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="Microformats"/>
-    <category term="XOXO"/>
-    <category term="html"/>
-    <category term="JSON"/>
-    <updated>2007-05-15T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">You might have heard about microformats, a way to embed small, specialized information within standard formats. In fact, microformats come in two types: elemental microformats, which are often quite useful, and compound microformats, which are often quite problematic. Learn about a basic approach to avoid the hacks in some compound microformats by virtue of the structure of the Web. XML, and other natural data representation technologies such as JSON, are just as viable as many of their counterparts in microformats.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://www.xml.com/pub/a/2006/04/26/microformats-grddl-rdfa-nvdl.html</id>
-    <title>Microformats in Context</title>
-    <subtitle></subtitle>
-    <link href="http://www.xml.com/pub/a/2006/04/26/microformats-grddl-rdfa-nvdl.html"/>
-    <link href="http://www.xml.com" rel="via" title="XML.com"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="Microformats"/>
-    <category term="html"/>
-    <category term="xhtml"/>
-    <category term="Web 2.0"/>
-    <updated>2006-04-26T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">There has been a lot of discussion in XML circles as to how far the extensibility revolution promised by XML can take (or has taken) us. Is XML really a tool for creating specialized languages so that information can be expressed in the most natural formats practical? Or is it just a way to reduce the burden on those who write code to consume web content (be strict in what you accept so that you can be liberal with your time spent fly-fishing). Are schema technologies a way to manage the flexibility that XML brings to the table, or just another weapon to put down users ("You don't validate. Go away")? Of course, the way I've posed these questions reveals my bias. I think that XML should be a tool for expressiveness and controlled diversity on the Web. I disagree strongly with the notion, recently expressed in a few quarters, that there are only a few viable XML formats, and that people should stop creating more. At the center of this controversy is the new Web 2.0 hotness: microformats. 
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think38/</id>
-    <title>Thinking XML: The XML decade</title>
-    <subtitle>Thoughts on IBM Systems Journal's retrospective of XML at ten years (or so)</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think38/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="RELAX NG"/>
-    <category term="COBOL"/>
-    <category term="XSD"/>
-    <category term="tech"/>
-    <category term="ACORD"/>
-    <category term="HL7"/>
-    <updated>2006-11-14T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">IBM Systems Journal recently published an issue dedicated to XML's 10th anniversary. It is primarily a collection of interesting papers for XML application techniques, but some of its articles offer general discussion of the technical, economic and even cultural effects of XML. There is a lot in these papers to draw from in thinking about why XML has been successful, and what it would take for XML to continue its success. This article expands on some of these topics that are especially relevant to readers of this column.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think40/</id>
-    <title>Thinking XML: Firefox 2.0 and XML</title>
-    <subtitle>Learn how the latest Firefox release updates XML processing</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think40/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="dom"/>
-    <category term="OpenSearch"/>
-    <category term="firefox"/>
-    <category term="SAX"/>
-    <category term="thinking xml"/>
-    <category term="xslt"/>
-    <category term="tech"/>
-    <category term="web"/>
-    <category term="XPCOM"/>
-    <updated>2007-10-02T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Firefox 2.0 brought several important changes in its XML support. It's currently reaching its peak in user deployment. Learn about updated XML features in Firefox 2.0, including a controversial change to the handling of RSS Web feeds.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>https://www.ibm.com/developerworks/xml/library/x-think41/</id>
-    <title>Thinking XML: Firefox 3.0 and XML</title>
-    <subtitle>The popular Web browser offers more to XML developers each release and the new 3.0 is no exception</subtitle>
-    <link href="https://www.ibm.com/developerworks/xml/library/x-think41/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="dom"/>
-    <category term="exslt"/>
-    <category term="firefox"/>
-    <category term="svg"/>
-    <category term="thinking xml"/>
-    <category term="xslt"/>
-    <category term="tech"/>
-    <category term="web"/>
-    <updated>2008-07-29T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Mozilla® continues to improve its flagship browser and the latest major release, Firefox® 3.0, offers something for just about everyone. XML developers were certainly not left out—the new version improves basic parsing, DOM, XSLT, SVG, and more. In this article, learn of the new features Firefox 3.0 offers for XML processing; pay close attention to how the added EXSLT extensions open up fresh possibilities for XSLT on the browser.
-      </div>
-    </summary>
-  </entry>
-
-<!--
-  <entry>
-    <id>http://www.ibm.com/developerworks/xml/library/x-think42/index.html</id>
-    <title>Thinking XML: Enrich Schema definitions with SKOS</title>
-    <subtitle>Learn how to attach concepts from the business problem domain to XML applications</subtitle>
-    <link href="http://www.ibm.com/developerworks/xml/library/x-think42/index.html"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="SKOS"/>
-    <category term="RDF"/>
-    <category term="Semantic Web"/>
-    <category term="schema"/>
-    <category term="xsd"/>
-    <category term="Turtle"/>
-    <category term="outstanding!"/>
-    <updated>2008-11-08T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">The things in schemata (people, places and things) are inextricably tied to how people describe them, and this is the key to alignment of business with technology. One of the most important things an XML schema designer can do is express this connection clearly. SKOS, a language well known as a component of DITA, is a very useful means for such expression. Learn how to enrich schema definitions with SKOS definitions.
-      </div>
-    </summary>
-  </entry>
--->
-
-  <entry>
-    <id>http://www.ibm.com/developerworks/xml/library/x-think44/index.html</id>
-    <title>Thinking XML: Use XML pattern tools for systems analysis</title>
-    <subtitle>Combine the discipline of Operational Systems Analysis with a flexible, adaptive toolkit</subtitle>
-    <link href="http://www.ibm.com/developerworks/xml/library/x-think44/index.html"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="analysis"/>
-    <category term="business modeling"/>
-    <category term="ISO Schematron"/>
-    <category term="schema"/>
-    <category term="service modeling language (SML)"/>
-    <category term="xslt"/>
-    <updated>2010-06-02T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Systems optimization is a growing field, especially in adaptive, autonomic systems, but also in traditional information workflows. Much of the material accumulated in the monitor phase is available in some form of XML. Rather than apply complicated, monolithic analysis tools, you can benefit when you apply the pattern dispatch mechanisms inherent in XML. This saves effort and increases flexibility as it supports a library of analysis primitives that you can redeploy for high-level reports as well as fine-tuning. Learn to apply the likes of XPath and XSLT patterns much more broadly in order to support analysis and drive systems optimizations.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://www.ibm.com/developerworks/xml/library/x-think45/</id>
-    <title>Thinking XML: The XML flavor of HTML5</title>
-    <subtitle>6 recommendations for developers using the next generation of the web's native language</subtitle>
-    <link href="http://www.ibm.com/developerworks/xml/library/x-think45/"/>
-    <link href="http://www.ibm.com/developerworks" rel="via" title="IBM developerWorks"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <category term="html"/>
-    <category term="xhtml"/>
-    <category term="html5"/>
-    <category term="web"/>
-    <updated>2010-06-06T12:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-<p>For a while, there has been a struggle for the future of markup on the web, a struggle between the W3C's XHTML 2 and HTML5, developed by the major browser vendors under a separate organizational umbrella. First, the W3C took over HTML5, and now it recently announced the sunset of the XHTML 2 effort. This makes a significant difference to the future of XML on the web, and furthermore, because of HTML5's momentum, it is now a technology that every XML developer already has to deal with.</p>
-<p>But fans of XML need not despair: HTML5 supports a proper XML serialization. Learn about the XML form of HTML5 including some key differences from older XHTML conventions and learn how to practically apply this vocabulary in modern web browsers.</p>
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://semanticweb.com/the-art-of-linked-data-architecting-recollection_b23186</id>
-    <title>The Art of Linked Data: Architecting Recollection</title>
-    <link href="http://semanticweb.com/the-art-of-linked-data-architecting-recollection_b23186"/>
-    <link href="http://semanticweb.com/" rel="via" title="Semanticweb.com"/>
-    <category term="Library"/>
-    <category term="tech"/>
-    <category term="Python"/>
-    <category term="Web services"/>
-    <category term="REST"/>
-    <category term="design"/>
-    <updated>2011-09-20T16:00:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-Discussion of the architecture used to implement the Recollection Project for the US Library of Congress, and the motivatiosn for the architecture. In this column “The art of Linked Data” a few of us at Zepheira will try to bring observations, reflections and practical advice from various projects applying Linked Data and thus Semantic Web principles across diverse domains.
-      </div>
-    </summary>
-  </entry>
 
   <entry>
     <id>http://www.ibm.com/developerworks/xml/library/x-think43/</id>
@@ -531,9 +103,6 @@ Discussion of the architecture used to implement the Recollection Project for th
     <category term="turtle"/>
     <category term="xslt"/>
     <category term="tech"/>
-    <category term="schema"/>
-    <category term="semantic web"/>
-    <category term="standout!"/>
     <updated>2008-11-11T12:00:00Z</updated>
     <author>
       <name>Uche Ogbuji</name>
@@ -736,92 +305,6 @@ Discussion of the architecture used to implement the Recollection Project for th
     </author>
     <summary type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">Good enterprise data architecture requires adherence to a new type of discipline—and an extensive array of IT and business resources—in order to earn the needed commitment from your sponsoring organization. By understanding the overall landscape of affected applications and gathering useful metrics, you can make this commitment easier to achieve. In this article, I'll describe how to communicate the value of enterprise data architecture, and how to keep on track and deliver what you promised.
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://semanticweb.com/building-effective-relationships-in-software_b10087</id>
-    <title>Building Effective Relationships in Software</title>
-    <link href="http://semanticweb.com/building-effective-relationships-in-software_b10087"/>
-    <link href="http://semanticweb.com" rel="via" title="Semanticweb.com"/>
-    <category term="xml"/>
-    <category term="tech"/>
-    <updated>2008-01-15T15:35:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-One of the many factors that led to the success of the Web was in how it defined links in a very simple manner, which encouraged cross-referencing. In the last two installments of this column, I’ve discussed the importance of the identifiers of the Web: URIs. The Web’s native document element, HTML, made it easy to connect one URI to another, and so relationships between documents could grow regardless of who controlled the documents. This of course meant that sometimes such links would break, signaled by the infamous 404 "Not Found" code. Purists of hypertext, the discipline of strongly linked documents, disliked this fragility, but the Web grew, and continues to grow so fantastically, precisely because of the power of simple links needing no strong system of control....
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://semanticweb.com/building-effective-relationships-in-software_b10087</id>
-    <title>Universal Identifiers for the Enterprise</title>
-    <link href="http://semanticweb.com/building-effective-relationships-in-software_b10087"/>
-    <link href="http://semanticweb.com" rel="via" title="Semanticweb.com"/>
-    <category term="Web"/>
-    <category term="tech"/>
-    <category term="REST"/>
-    <category term="design"/>
-    <updated>2007-11-26T14:35:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-I started this column with the message that "the future of the Web is: identifiers, relationships and services." Identifiers are the magic gear that make the others work, and so, having in the previous article introduced the role of identifiers in the Internet, I’ll expand on the theme to discuss how important identifiers are, even in an organizational setting....
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://semanticweb.com/identifiers-are-at-the-heart-of-information-technology_b10053</id>
-    <title>Identifiers Are at the Heart of Information Technology</title>
-    <link href="http://semanticweb.com/identifiers-are-at-the-heart-of-information-technology_b10053"/>
-    <link href="http://semanticweb.com" rel="via" title="Semanticweb.com"/>
-    <category term="Web"/>
-    <category term="tech"/>
-    <category term="REST"/>
-    <category term="design"/>
-    <updated>2007-10-04T19:41:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-Identifiers have been around since the dawn of the computer age. They are special tokens used to keep track of anything that’s processed in computers. For ages no one cared about identifiers except for technologists. This all changed with the advent of the Internet....
-      </div>
-    </summary>
-  </entry>
-
-  <entry>
-    <id>http://semanticweb.com/the-future-of-the-web-is_b10041</id>
-    <title>The Future of the Web Is</title>
-    <link href="http://semanticweb.com/the-future-of-the-web-is_b10041"/>
-    <link href="http://semanticweb.com" rel="via" title="Semanticweb.com"/>
-    <category term="Web"/>
-    <category term="tech"/>
-    <category term="REST"/>
-    <category term="design"/>
-    <updated>2007-08-13T13:14:00Z</updated>
-    <author>
-      <name>Uche Ogbuji</name>
-      <uri>http://uche.ogbuji.net</uri>
-      <email>uche@ogbuji.net</email>
-    </author>
-    <summary type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-The future of the Web is: identifiers, relationships and services. Ever since the Web changed the way people deal with data there has been competition to take the information age to the next step....
       </div>
     </summary>
   </entry>
@@ -1347,8 +830,7 @@ XML is text and yet more than just text -- sometimes you want to work with just 
     <category term="security"/>
     <category term="XPath injection"/>
     <category term="data warehouse"/>
-    <category term="tech"/>
-    <updated>2005-08-01T12:00:00Z</updated>
+    <category term="tech"/><updated>2005-08-01T12:00:00Z</updated>
     <author>
       <name>Uche Ogbuji</name>
       <uri>http://uche.ogbuji.net</uri>
@@ -1913,7 +1395,7 @@ Meet Schematron, a schema language that allows you to directly express rules wit
     <category term="XML"/>
     <category term="UML"/>
     <category term="data model"/>
-    <category term="outstanding!"/>
+    <category term="outstanding"/>
     <category term="tech"/><updated>2004-10-01T12:00:00Z</updated>
     <author>
       <name>Uche Ogbuji</name>
@@ -3575,9 +3057,7 @@ Tune in to MusicBrainz, a project for managing digital media metadata that uses 
     <category term="XML"/>
     <category term="XPath"/>
     <category term="XML Schema"/>
-    <category term="tech"/>
-    <category term="outstanding!"/>
-    <updated>2002-12-04T12:00:00Z</updated>
+    <category term="tech"/><updated>2002-12-04T12:00:00Z</updated>
     <author>
       <name>Uche Ogbuji</name>
       <uri>http://uche.ogbuji.net</uri>
@@ -4169,7 +3649,6 @@ Many XML-related technologies are no more than specifications for a standard way
     <title>The Languages of the Semantic Web</title>
     <link href="http://www.ddj.com/architect/184414544"/>
     <link rel="seealso" href="http://www.newarchitectmag.com/documents/s=2453/new1020218556549/index.html"/>
-    <link rel="seealso" href="http://www.drdobbs.com/architecture-and-design/184414544"/>
     <link href="http://www.newarchitectmag.com/" rel="via" title="New Architect Magazine"/>
     <category term="XML"/>
     <category term="RDF"/>
@@ -4522,7 +4001,6 @@ These data formats define a vocabulary for service descriptions, automation, rul
     <title>Taking Applications to the Next Level with XML, Part 5: One part code, one part XML, two parts knowledge</title>
     <link href="http://www.intel.com/cd/ids/developer/asmo-na/eng/19169.htm"/>
     <link href="http://developer.intel.com/" rel="via" title="Intel Developer Services"/>
-    <link rel="alternate" href="http://software.intel.com/en-us/articles/one-part-code-one-part-xml-two-parts-knowledge/"/>
     <category term="XML"/>
     <category term="RDF"/>
     <category term="RSS"/>
@@ -4543,7 +4021,6 @@ This article discusses a key companion technology to XML toward the goal of know
     <title>Taking Applications to the Next Level with XML, Part 3: The Toolbox of XML APIs</title>
     <link href="http://www.intel.com/cd/ids/developer/asmo-na/eng/20259.htm"/>
     <link href="http://developer.intel.com/" rel="via" title="Intel Developer Services"/>
-    <link rel="alternate" href="http://software.intel.com/en-us/articles/taking-applications-to-the-next-level-with-xml-part-3-the-toolbox-of-xml-apis/"/>
     <category term="XML"/>
     <category term="SAX"/>
     <category term="DOM"/>
@@ -4564,7 +4041,6 @@ One of the most important areas is in Application Programming Interfaces (APIs) 
     <title>Taking Applications to the Next Level with XML, Part 4: XSLT--Programming by Transform</title>
     <link href="http://www.intel.com/cd/ids/developer/asmo-na/eng/20271.htm"/>
     <link href="http://developer.intel.com/" rel="via" title="Intel Developer Services"/>
-    <link rel="alternate" href="http://software.intel.com/en-us/articles/taking-applications-to-the-next-level-with-xml-part-4-xslt-programming-by-transform/"/>
     <category term="XML"/>
     <category term="XPath"/>
     <category term="XSLT"/>
@@ -4585,7 +4061,6 @@ Mr. Ogbuji introduces a new tool into the XML developer's pouch: Extensible Styl
     <title>Taking Applications to the Next Level with XML, Part 2</title>
     <link href="http://www.intel.com/cd/ids/developer/asmo-na/eng/20264.htm"/>
     <link href="http://developer.intel.com/" rel="via" title="Intel Developer Services"/>
-    <link rel="alternate" href="http://software.intel.com/en-us/articles/taking-applications-to-the-next-level-with-xml-part-2/"/>
     <category term="XML"/>
     <category term="Application development"/>
     <category term="tech"/><updated>2002-01-17T12:00:00Z</updated>
@@ -4606,7 +4081,7 @@ Uche Ogbuji discusses some of the basic characteristics of XML as a format for i
     <link href="http://softwarecommunity.intel.com/articles/eng/2339.htm"/>
     <link rel="alternate" href="http://www.intel.com/cd/ids/developer/asmo-na/eng/20265.htm"/>
     <link href="http://developer.intel.com/" rel="via" title="Intel Developer Services"/>
-    <link rel="alternate" href="http://software.intel.com/en-us/articles/taking-applications-to-the-next-level-with-xml-part-1/"/>
+    
     <category term="XML"/>
     <category term="tech"/><updated>2001-12-07T12:00:00Z</updated>
     <author>
@@ -5693,7 +5168,6 @@ CORBA encompasses a series of standards and protocols for interprocess communica
     <title>Practical XML with Linux, Part 1</title>
     <link href="http://www.cnn.com/TECH/computing/9910/01/practical.xml.idg/"/>
     <link href="http://www.linuxworld.com" rel="via" title="LinuxWorld"/>
-    <link href="http://www.cnnstudentnews.cnn.com/TECH/computing/9910/01/practical.xml.idg/index.html" rel="seealso"/>
     <category term="XML"/>
     <category term="Linux"/>
     <category term="tech"/><updated>1999-09-01T12:00:00Z</updated>
@@ -5848,8 +5322,6 @@ CORBA encompasses a series of standards and protocols for interprocess communica
     <id>http://www.linuxworld.com/linuxworld/lw-1999-03/lw-03-xml.html</id>
     <title>There is more to XML than roll-your-own HTML</title>
     <link href="http://www.linuxworld.com/linuxworld/lw-1999-03/lw-03-xml.html"/>
-    <link rel="seealso" href="http://web.archive.org/web/20001013052905/http://www.linuxworld.com/linuxworld/lw-1999-03/lw-03-xml.html"/>
-    <link rel="seealso" href="http://web.archive.org/web/20001013070102/http://www.linuxworld.com/linuxworld/lw-1999-03/lw-03-xml-2.html"/>
     <link href="http://www.linuxworld.com" rel="via" title="LinuxWorld"/>
     <category term="Linux"/>
     <category term="XML"/>
