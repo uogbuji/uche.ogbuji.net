@@ -15,7 +15,7 @@
         <!--
           <p><u>Ndewo, Colorado</u> (<a href="http://kelsaybooks.com/">Aldrich Press</a>, 2013) is a collection of my poems, available on <a href="http://www.amazon.com/Ndewo-Colorado-Uche-Ogbuji/dp/0615886086/">Amazon</a>.</p>
         -->
-          <p>A collection of my poems, published by <a href="http://kelsaybooks.com/">Aldrich Press</a> and available on <a href="http://www.amazon.com/Ndewo-Colorado-Uche-Ogbuji/dp/0615886086/">Amazon</a>.</p>
+          <p>A collection of my poems, published by <a href="http://astore.amazon.com/kelsbook-20/detail/0615886086">Aldrich Press</a> and available on <a href="http://www.amazon.com/Ndewo-Colorado-Uche-Ogbuji/dp/0615886086/">Amazon</a>.</p>
           <dl>
             <dt>ISBN-10</dt><dd>0615886086</dd>
             <dt>ISBN-13</dt><dd>978-0615886084</dd>

@@ -256,6 +256,8 @@ INDEX_PATH = "blog"
 # INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d'
 # translated
 
+INDEXES_TITLE = "(index)"  # If this is empty, the default is BLOG_TITLE
+
 # Name of the theme to use.
 #THEME = "simplex"
 THEME = "ndewotime"
@@ -406,6 +408,8 @@ PRETTY_URLS = True
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
 # MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
+
+MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'tables']
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
