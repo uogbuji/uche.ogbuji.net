@@ -1,10 +1,8 @@
-uche.ogbuji.net
-===============
+= uche.ogbuji.net
 
 Just my web site
 
-=======
-Uses:
+Stuff used:
 
  * [Nikola](http://getnikola.com/)
   * [docs](http://getnikola.com/documentation.html)
@@ -22,4 +20,10 @@ Customized with <del>bootstrap3-jinja theme and</del> [simplex via Bootswatch](h
 To deploy:
 
 	rsync -avz output/ ../uogbuji.github.com/
+
+----
+
+Note: 
+
+Code in tools needs Python 2.x and Amara (pip install python-dateutil amara==2)
 

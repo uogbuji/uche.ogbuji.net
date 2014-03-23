@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 import os, sys, datetime
+import argparse
+from copy import deepcopy
+
 from dateutil import parser as dateparser #pip install python-dateutil
 
-from copy import deepcopy
 from amara import parse
 from amara.bindery import html
 from amara.tools import atomtools
@@ -157,8 +159,6 @@ def run(input=None, outfullhtml=None, outfulljson=None, outchoicehtml=None):
 
 # Handle the command-line arguments
 
-from akara.thirdparty import argparse #Sorry PEP 8 ;)
-
 #import signal
 #import shutil
 
@@ -169,7 +169,7 @@ if __name__ == '__main__':
     parser.add_argument('input', type=argparse.FileType('r'), metavar='INPUT',
                         help='Input atom file')
     parser.add_argument('-o', '--out',
-        help='file path and name stem stem of the 3 files to be written')
+        help='file path and name stem of the 3 files to be written')
     #
     args = parser.parse_args()
     outfullhtml = open(args.out + '.full.html', 'w')

@@ -1,6 +1,6 @@
 output/*
 old/*
 cache/*
-.doit.db.db
+.doit.db.*
 
 *.pyc

@@ -81,7 +81,7 @@ Some of the poems in this book have already been published elsewhere, so enjoy t
       <h2>Endo (from "Mountain Tanka")</h2>
       <p class="source"><cite>Mountain Gazette,</cite> January 2012</p>
       <p class="stanza">Head upside home fried<br>
-Champagne powder&hellip;
+Champagne powder…
       </p>
       </a>
     </section>
@@ -92,7 +92,6 @@ Champagne powder&hellip;
 Over the stubborn campfire<br>
 With twigs caught in its bustle and fuss,<br>
 Whisked though sere mangrove,&hellip;
-<!--…-->
       </p>
     </section>
     <section>
@@ -201,6 +200,8 @@ Science and history are the idle chatter here:&hellip;
       </p>
       </a>
     </section>
+<!--
+…-->
 </div>
 
 <div class="center cycle-prevnext">

@@ -4,13 +4,14 @@ from amara.lib import U
 from amara.writers.struct import *
 
 def main_link(e):
-	for link in e.link:
+	links = list(e.link or [])
+	for link in links:
 		if not link.rel:
 			return U(link.href)
 
 
 def other_links(e):
-	links = list(e.link)
+	links = list(e.link or [])
 	for link in links:
 		if not link.rel:
 			links.remove(link)
@@ -32,7 +33,9 @@ ROOT(
     (
       E(u'article',
         E(u'h2',
-          E(u'a', {u'href': main_link(e)}, U(e.title))
+          ( E(u'a', {u'href': main_link(e)}, U(e.title))
+              if main_link(e) else E(u'a', U(e.title))
+          )
         ),
         ( E(u'h3', U(subtitle)) for subtitle in (e.subtitle or []) if U(subtitle).strip() ),
         (E(u'div', {u'class': u'author'},
@@ -43,7 +46,7 @@ ROOT(
         E(u'div', {u'class': u'updated'}, U(e.updated)),
         E(u'div', {u'class': u'summary'}, U(e.summary)),
         E(u'ul', {u'class': u'keywords'},
-          ( E(u'li', U(c.term) ) for c in e.category if U(c.term).strip() ),
+          ( E(u'li', U(c.term) ) for c in (e.category or []) if U(c.term).strip() ),
         ),
         other_links(e),
     ) for e in pubfeed.feed.entry )
