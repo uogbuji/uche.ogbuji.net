@@ -14,8 +14,8 @@ SITE_URL = "http://uche.ogbuji.net/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-#BLOG_EMAIL = "uche@ogbuji.net"
-BLOG_EMAIL = ""
+BLOG_EMAIL = "uche@ogbuji.net"
+#BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "Uche Ogbuji: Igbo-American poet, editor, computer engineer, entrepreneur, etc."
 
 # Nikola is multilingual!
@@ -61,8 +61,8 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/lit', 'Lit'),
         ('/tech', 'Tech'),
+        ('/lit', 'Lit'),
         ('/ndewo', 'Ndewo, Colorado'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
