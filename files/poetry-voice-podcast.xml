@@ -23,14 +23,31 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://gonzaga.ogbuji.net/~uche/poetryvoice/cover1.jpg" />
 		<atom:link href="http://gonzaga.ogbuji.net/~uche/poetryvoice/podcast.xml" rel="self" type="application/rss+xml" /> <!-- The URL of this file -->
-		<pubDate>Sun, 13 November 2016 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
+		<pubDate>Sun, 27 November 2016 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
 		<title>Poetry Voice, with Kierstin Bridger and Uche Ogbuji</title>
 		<itunes:author>Kierstin Bridger and Uche Ogbuji</itunes:author>
 		<description>Poetry podcast features real voices. We'll banter, feature Bards, examine poems, and reinvent interviews. Poetry from Colorado's Western slope and beyond.</description>
 		<itunes:summary>Poetry podcast features real voices. We'll banter, feature Bards, examine poems, and reinvent interviews. Poetry from Colorado's Western slope and beyond.</itunes:summary>
 		<itunes:subtitle>From the Western Slope to the world</itunes:subtitle>
 
-		<lastBuildDate>Sun, 13 November 2016 00:00:00 MDT</lastBuildDate>
+		<lastBuildDate>Sun, 27 November 2016 00:00:00 MDT</lastBuildDate>
+
+<!-- Always add the newest ITEM to the top of the list -->
+		<item>
+			<title>Episode 3: Coming Home</title>
+			<description>Kierstin interviews and teases song out of poet Kyle Harvey, woven in with her joining Uche to discuss Sharon Olds, Derek Walcott and more.</description>
+			<itunes:summary>Kierstin interviews and teases song out of poet Kyle Harvey, woven in with her joining Uche to discuss Sharon Olds, Derek Walcott and more.</itunes:summary>
+			<itunes:subtitle>"Chilling in the glow of the year's first snow, right outside my window."</itunes:subtitle>
+			<itunesu:category itunesu:code="107105" /> <!-- Literature. See:
+      * http://www.gla.ac.uk/myglasgow/staff/brandguidelines/toolkit/digitalcontentanditunesnbspu/downloadsandresources/itunesucategorycodes/
+      * 
+http://deimos.apple.com/rsrc/doc/UsingiTunesUPublicSiteManager/AboutCategoryPages/chapter_8_section_3.html
+     -->
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep3.mp3" type="audio/mpeg" length="82988848" />
+			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep3.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
+			<itunes:duration>0:56</itunes:duration>
+			<pubDate>Sun, 27 November 2016 00:00:00 MDT</pubDate>
+		</item>
 
 <!-- Always add the newest ITEM to the top of the list -->
 		<item>
