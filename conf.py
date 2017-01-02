@@ -96,12 +96,12 @@ NAVIGATION_LINKS = {
 #
 
 POSTS = (
-    ("posts/*.txt", "blog", "post.tmpl"),
-    ("posts/*.md", "blog", "post.tmpl"),
+    ("posts/*/*.md", "blog", "post.tmpl"),
+    ("posts/*/*.txt", "blog", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.txt", "", "story.tmpl"),
     ("stories/*.md", "", "story.tmpl"),
+    ("stories/*.txt", "", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.

@@ -1,7 +1,7 @@
 .. link: 
 .. description: 
 .. tags: 
-.. date: 2013/09/29 19:28:39
+.. date: 2015/03/29 23:40:00
 .. title: Ndewo, Colorado
 .. slug: index
 .. template: slideuser.tmpl
@@ -30,6 +30,16 @@
 </table>
 
 ----
+
+<p>
+<!--
+	See also: http://www.westword.com/best-of/2015/arts-and-entertainment
+-->
+	<a href="http://www.westword.com/best-of/2015/arts-and-entertainment/best-environmental-poetry-6611142">In his poetry, he blends his love for the environment and the Rocky Mountain region, his scientific know-how and his passion for language, telling concise stories that delight both the left and right sides of the brain."</a>—Westword 2015 Award Winner, "Best Environmental Poetry"
+</p>
+<p>
+	<a href="http://www.flatironsliteraryreview.com/2014/06/24/congratulations-2014-colorado-book-award-winners/">"His experimentation with form and language are both challenging and fascinating."</a>—Flatirons Literary Review
+</p>
 
 <table>
     <tr>
@@ -165,7 +175,7 @@ Gold flecks exposed as elder snows melt.&hellip;
       </a>
     </section>
     <section>
-      <a href="Above Left Hand Canyon">
+      <a href="http://ithacalit.com/uche-ogbuji1.html">
       <h2>Above Left Hand Canyon</h2>
       <p class="source"><cite>IthacaLit,</cite> March 2013</p>
       <p class="stanza">I, buffalo-brown transplant, enticed hence<br>

@@ -2,5 +2,7 @@ output/*
 old/*
 cache/*
 .doit.db.*
+sync.sh
+scratch/*
 
 *.pyc
