@@ -23,16 +23,48 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://gonzaga.ogbuji.net/~uche/poetryvoice/cover1.jpg" />
 		<atom:link href="http://gonzaga.ogbuji.net/~uche/poetryvoice/podcast.xml" rel="self" type="application/rss+xml" /> <!-- The URL of this file -->
-		<pubDate>Sun, 27 November 2016 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
+		<pubDate>Mon, 22 January 2017 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
 		<title>Poetry Voice, with Kierstin Bridger and Uche Ogbuji</title>
 		<itunes:author>Kierstin Bridger and Uche Ogbuji</itunes:author>
 		<description>Poetry podcast features real voices. We'll banter, feature Bards, examine poems, and reinvent interviews. Poetry from Colorado's Western slope and beyond.</description>
 		<itunes:summary>Poetry podcast features real voices. We'll banter, feature Bards, examine poems, and reinvent interviews. Poetry from Colorado's Western slope and beyond.</itunes:summary>
 		<itunes:subtitle>From the Western Slope to the world</itunes:subtitle>
 
-		<lastBuildDate>Sun, 27 November 2016 00:00:00 MDT</lastBuildDate>
+		<lastBuildDate>Mon, 22 January 2017 00:00:00 MDT</lastBuildDate>
 
 <!-- Always add the newest ITEM to the top of the list -->
+		<item>
+			<title>Episode 5: Abundance</title>
+			<description>Kierstin and Uche are together again at Ridgway Global tuning into  Kristen's interview with poet and radio personality Lauren Camp.</description>
+			<itunes:summary>Kierstin and Uche are together again at Ridgway Global tuning into  Kristen's interview with poet and radio personality Lauren Camp.</itunes:summary>
+			<itunes:subtitle>"Under the loose-tooth shards of the Cimmaron range."</itunes:subtitle>
+			<itunesu:category itunesu:code="107105" /> <!-- Literature. See:
+      * http://www.gla.ac.uk/myglasgow/staff/brandguidelines/toolkit/digitalcontentanditunesnbspu/downloadsandresources/itunesucategorycodes/
+      * 
+http://deimos.apple.com/rsrc/doc/UsingiTunesUPublicSiteManager/AboutCategoryPages/chapter_8_section_3.html
+     -->
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep5.mp3" type="audio/mpeg" length="94974664" />
+			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep5.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
+			<itunes:duration>1:04</itunes:duration>
+			<pubDate>Mon, 22 January 2017 00:00:00 MDT</pubDate>
+		</item>
+
+		<item>
+			<title>Episode 4: Winter Dark/Winter Light</title>
+			<description>Kierstin and Uche get together at the Lithic Press Bookstore &amp; Gallery with owner and Colorado Poet Danny Rosen.</description>
+			<itunes:summary>Kierstin and Uche get together at the Lithic Press Bookstore &amp; Gallery with owner and Colorado Poet Danny Rosen.</itunes:summary>
+			<itunes:subtitle>"At the Lithic, feeling mythic."</itunes:subtitle>
+			<itunesu:category itunesu:code="107105" /> <!-- Literature. See:
+      * http://www.gla.ac.uk/myglasgow/staff/brandguidelines/toolkit/digitalcontentanditunesnbspu/downloadsandresources/itunesucategorycodes/
+      * 
+http://deimos.apple.com/rsrc/doc/UsingiTunesUPublicSiteManager/AboutCategoryPages/chapter_8_section_3.html
+     -->
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep4.mp3" type="audio/mpeg" length="81030918" />
+			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep4.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
+			<itunes:duration>0:56</itunes:duration>
+			<pubDate>Mon, 2 January 2017 00:00:00 MDT</pubDate>
+		</item>
+
 		<item>
 			<title>Episode 3: Coming Home</title>
 			<description>Kierstin interviews and teases song out of poet Kyle Harvey, woven in with her joining Uche to discuss Sharon Olds, Derek Walcott and more.</description>
@@ -49,7 +81,6 @@ http://deimos.apple.com/rsrc/doc/UsingiTunesUPublicSiteManager/AboutCategoryPage
 			<pubDate>Sun, 27 November 2016 00:00:00 MDT</pubDate>
 		</item>
 
-<!-- Always add the newest ITEM to the top of the list -->
 		<item>
 			<title>Episode 2: Day of the Dead</title>
 			<description>Jennifer Hancock joins Kierstin and Uche in discussion ranging from hurricanes to the awful uses of belts.</description>
