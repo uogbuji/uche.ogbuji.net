@@ -23,7 +23,7 @@
 
 # [poem]
 
-* updated:
+* updated: 2017-01-26
 * link:
 * title: ""
 * source:
@@ -33,7 +33,7 @@
 
 # [poem]
 
-* updated: 2016-01-26
+* updated: 2017-01-26
 * link: http://www.verse-virtual.com/uche-ogbuji-2016-february.html
 * title: "Dictate"
 * source: http://www.verse-virtual.com
@@ -46,9 +46,151 @@ http://uogbuji.tumblr.com/post/142086453376/words-unsprung-from-p-38-of-ndewo-co
 
 -->
 
+# [poem]
+
+* updated: 2017-01-31
+* link: http://quatrain.fish/post/156586277544/uche-ogbuji
+* title: "Tally"
+* source: http://quatrain.fish/
+    * title: Quatrain Fish
+* author: uogbuji
+* summary: Once for touble, twice,
+Time.
 
 
-https://www.joomag.com/magazine/light-a-journal-of-photography-poetry-1/0485364001479625928#
+# [poem]
+
+* updated: 2017-01-31
+* link: http://www.verse-virtual.com/uche-ogbuji-2017-february.html
+* title: "Januarial"
+* source: http://www.verse-virtual.com
+    * title: Verse Virtual
+* author: uogbuji
+* summary: A second head is retrograde
+Wherein the hearth's already made,
+And mind, and memory, good or ill
+Gives comfort having been fulfilled.
+
+
+# [poem]
+
+* updated: 2016-01-24
+* link: https://issuu.com/trishaventker/docs/elife_winter_issue_2017_-_pdf_best?e=3021716/43480091
+* title: "Julian’s Blood Moon"
+* source: http://www.elifemagazine.org/
+    * title: ELIFE Magazine
+* author: uogbuji
+* category: @choice
+    * scheme: http://uche.ogbuji.net
+* summary: For the boy the first words of whose employ
+Made a song and a sway for the sight of the moon
+
+
+# [poem]
+
+* updated: 2017-01-16
+* link: http://quatrain.fish/post/155677269220/uche-ogbuji
+* title: "Ars"
+* source: http://quatrain.fish/
+    * title: Quatrain Fish
+* author: uogbuji
+* summary: Bless us the poem's perfect hue:
+
+
+# [poem]
+
+* updated: 2017-01-21
+* link: http://www.rigorous-mag.com/v1i1/uche-ogbuji.html
+* title: "Ḿmádụ́ Si Àlà Pụ̀tá", "Red Rapture", "Light Pollution", "Phenomenon of Time to a Gálapagos Gálapago", "Boldly Go", "Epignomics"
+* source: http://www.rigorous-mag.com
+    * title: Rigorous Magazibe
+* author: uogbuji
+* summary: The one yellow our perspective's peaked arc
+Enfolds is not a yoke to cuff our necks
+Hard to the field. This food is massive enough
+To burn an hour or two in supine sloth;
+
+
+# [poem]
+
+* updated: 2017-01-19
+* link: http://classicalpoets.org/walked-the-mountain-and-other-poetry-by-uche-ogbuji/
+* title: "Walked the Mountain" & "Buena Vista, Colorado"
+* source: http://classicalpoets.org
+    * title: The Society of Classical Poets
+* author: uogbuji
+* summary: Where the mountains make their point,
+Grey head stone over tunic green,
+There’s enough sunshine to anoint
+Your sense with gist sprung from the scene.
+
+
+# [poem]
+
+* updated: 2017-01-13
+* link: http://www.gjsentinel.com/entertainment/articles/lines-west-jan-13
+* title: "Nighty Alpine"
+* source: http://www.gjsentinel.com/
+    * title: Grand Junction Daily Sentinel (Out and About section)
+* author: uogbuji
+* summary: What a pop-rock stream,
+This ribbon of Milky Way
+
+
+# [poem]
+
+* updated: 2016-11-25
+* link: http://www.gjsentinel.com/...
+* title: "Buena Vista, Colorado"
+* source: http://www.gjsentinel.com/
+    * title: Grand Junction Daily Sentinel (Out and About section)
+* author: uogbuji
+* summary: Where the mountains make their point,
+Grey head stone over tunic green,
+There’s enough sunshine to anoint
+Your sense with gist sprung from the scene.
+
+
+# [poem]
+
+* updated: 2017-01-08
+* link: https://static1.squarespace.com/static/566e657edf40f3a7318d653e/t/5872a512f7e0ab8a674d7298/1483908372599/Chantwood+Magazine_November_Issue+5.pdf
+* title: "Mysteries of Harvest III"
+* source: http://chantwoodmagazine.com/
+    * title: Chantwood 
+* author: uogbuji
+* summary: These carve wind-wash on waves, eyes in hard faces
+ Up coring airmass judder for conning stars,
+ Straight scanning past sands for fruit after wars,
+Or past provender at rune-posted places.
+
+
+# [poem]
+
+* updated: 2016-12-26
+* link: http://www.thetribejournal.com/2016/12/four-poems-uche-ogbuji.html
+* title: "Anaphage", "Mysteries of Harvest I", "Hookah Parlor" & "To Move Mountains"
+* source: http://www.thetribejournal.com
+    * title: The Tribe Journal
+* author: uogbuji
+* summary: Never their style articulating scorn,
+These say-nothing mountains, but you can tell,
+Their having refused the slightest wobble
+When every other sight shakes swoon to swell.
+
+
+# [poem]
+
+* updated: 2016-11-30
+* link: https://www.joomag.com/magazine/light-a-journal-of-photography-poetry-1/0485364001479625928#
+* title: "Dear Mourner" (p. 67)
+* source: http://www.light-journal.com/
+    * title: Light - A Journal of Photography & Poetry
+* author: uogbuji
+* summary: My death is but the breaking of a cup,
+And don't mistake me I speak of the perceived
+World only, not one some old fool made up.
+
 
 # [poem]
 
@@ -71,6 +213,7 @@ And a kiss for the morning at half-past three.
     * title: Opossum
 * see-also: http://opossumlit.com/two-voiced-flute-a-poem-by-uche-ogbuji/
 * See also: http://opossumlit.com/category/fall-2016-issue/
+* See also: http://opossumlit.com/
 * summary: Garrulous double,
 		Taiwo of tall echo
 		With a full hand's collection
@@ -186,6 +329,7 @@ Truss-up for children with frayed string.
 Brim checkered hampers laid out on the bench
 With veg, exotic condiments and dips.
 
+<!--
 # [poem]
 
 * updated: 2016-07-21
@@ -197,6 +341,7 @@ With veg, exotic condiments and dips.
 * summary: Neat clip of black leads
 Between white that mocks green,
 Industrial green conductors from afar;
+-->
 
 # [poem]
 
@@ -956,6 +1101,10 @@ Presume more pride than yours by right.
 * source: http://www.theraintownreview.com/
     * title: The Raintown Review
 * author: uogbuji
+* summary: Athena Nike—
+Ten meters point seven—
+Gilt-sweat freckled—
+Calling down heaven.
 
 # [poem]
 
@@ -1230,7 +1379,7 @@ Loam supplied, as did my mother's spice board.
 
 * updated: 2013-06-18
 * link: http://www.coriummagazine.com/?page_id=3324
-* title: "Spark Plug to Nova\""
+* title: "Spark Plug to Nova"
 * author: uogbuji
 * source: http://www.coriummagazine.com
     * title: Corium Magazine
@@ -1326,6 +1475,21 @@ From coriander, cumin and turmeric
 I swelled to the stove, which sprang wormhole
 To Chengdu, to Tehran, to Kabul and Lhasa,
 And over the möbius loop to Lomé, Yaoundé and Calabar.
+
+
+# [poem]
+
+* updated: 2013-10-01
+* link: http://storiesforjapan.blogspot.com.au/2012/08/yamato-nadeshiko.html
+* title: "Yamato Nadeshiko"
+* author: uogbuji
+* source: http://storiesforjapan.blogspot.com.au
+    * title: New Sun Rising: Stories for Japan
+* summary: Nippon, land and lore
+Invokes such fascination,
+All to be admired…
+No! Not all to be admired…
+Such bold type of shy contrasts.
 
 
 # [poem]
@@ -1578,21 +1742,6 @@ For these strobed winks!
 I stand my writing, my loving,
 My yearnings on their tip-toes
 As Luna shrinks.
-
-
-# [poem]
-
-* updated: 2013-10-01
-* link: http://storiesforjapan.blogspot.com.au/2012/08/yamato-nadeshiko.html
-* title: "Yamato Nadeshiko"
-* author: uogbuji
-* source: http://storiesforjapan.blogspot.com.au
-    * title: New Sun Rising: Stories for Japan
-* summary: Nippon, land and lore
-Invokes such fascination,
-All to be admired…
-No! Not all to be admired…
-Such bold type of shy contrasts.
 
 
 # [poem]

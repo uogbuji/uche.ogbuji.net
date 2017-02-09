@@ -1,12 +1,19 @@
 {% extends 'story.tmpl' %}
 {% block extra_js %}
-<script src="/assets/js/jquery.cycle2.min.js" type="text/javascript"></script>
-<!--
-<script type="text/javascript">
-$('.slide-right').cycle({ 
-    fx:    'scrollRight', 
-    delay: -10000 
-});
+<!-- https://github.com/jssor/slider -->
+<script src="/assets/js/jquery-3.1.1.min.js"></script>
+<script src="/assets/js/jssor.slider.min.js"></script>
+<script>
+    jQuery(document).ready(function ($) {
+      //See: http://www.jssor.com/development/reference-options.html
+        var options = {
+          $AutoPlay: true,
+          //5 - contain
+          $FillMode: 5,
+          //Specifies default duration (swipe) for slide in milliseconds, default value is 500
+          $SlideDuration: 4000
+        };
+        var jssor_slider1 = new $JssorSlider$('slider1_container', options);
+    });
 </script>
--->
 {% endblock %}

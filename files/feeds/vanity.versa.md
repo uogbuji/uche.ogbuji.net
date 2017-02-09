@@ -35,6 +35,19 @@
 
 -->
 
+# [event]
+
+* updated: 2017-01-07
+* link: http://cubecomps.com/live.php?cid=1944&cat=2&rnd=2
+* title: Longmont Cube Open 2017 2x2x2 Finals
+* source: http://cubecomps.com
+    * title: Cube Comps
+* author: 
+* category: jideogbuji
+    * scheme: http://uche.ogbuji.net
+* summary: Jide notched his first #speedcubing competition win in his least favorite event, the twitchfest 2x2x2
+
+
 # [article]
 
 * updated: 2015-10-13
