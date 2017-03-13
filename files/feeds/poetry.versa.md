@@ -76,7 +76,7 @@ Gives comfort having been fulfilled.
 
 * updated: 2016-01-24
 * link: https://issuu.com/trishaventker/docs/elife_winter_issue_2017_-_pdf_best?e=3021716/43480091
-* title: "Julian’s Blood Moon"
+* title: "Julian’s Blood Moon" p. 58
 * source: http://www.elifemagazine.org/
     * title: ELIFE Magazine
 * author: uogbuji
