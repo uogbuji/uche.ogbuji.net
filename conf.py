@@ -64,6 +64,7 @@ NAVIGATION_LINKS = {
         ('/tech', 'Tech'),
         ('/lit', 'Lit'),
         ('/ndewo', 'Ndewo, Colorado'),
+        ('/poetryvoice', 'Poetry Voice'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
         #('/rss.xml', 'RSS'),

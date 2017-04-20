@@ -24,23 +24,35 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://gonzaga.ogbuji.net/~uche/poetryvoice/cover1.jpg" />
 		<atom:link href="http://gonzaga.ogbuji.net/~uche/poetryvoice/podcast.xml" rel="self" type="application/rss+xml" /> <!-- The URL of this file -->
-		<pubDate>Sun, 12 March 2017 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
+		<pubDate>Mon, 10 April 2017 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
 		<title>Poetry Voice, with Kierstin Bridger and Uche Ogbuji</title>
 		<itunes:author>Kierstin Bridger and Uche Ogbuji</itunes:author>
-		<description>Poetry Voice podcast takes the art of lovely words into the plentiful Colorado sunshine. Much banter, decanters of laughter, featuring bards, and poetics they've mastered, with fresh interviews; all the news that stays news. From Colorado's Western slope and beyond.</description>
-		<itunes:summary>Poetry Voice podcast takes the art of lovely words into the plentiful Colorado sunshine. Much banter, decanters of laughter, featuring bards, and poetics they've mastered, with fresh interviews; all the news that stays news. From Colorado's Western slope and beyond.</itunes:summary>
+		<description>Poetry Voice podcast takes the art of lovely words into the plentiful Colorado sunshine, keeping it lit. Much banter, decanters of laughter, featuring bards, and poetics they've mastered, with fresh interviews; all the news that stays news. From Colorado's Western slope and beyond.</description>
+		<itunes:summary>Poetry Voice podcast takes the art of lovely words into the plentiful Colorado sunshine, keeping it lit. Much banter, decanters of laughter, featuring bards, and poetics they've mastered, with fresh interviews; all the news that stays news. From Colorado's Western slope and beyond.</itunes:summary>
 		<itunes:subtitle>From the Western Slope to the world</itunes:subtitle>
 
-		<lastBuildDate>Sun, 12 March 2017 00:00:00 MDT</lastBuildDate>
+		<lastBuildDate>Mon, 10 April 2017 00:00:00 MDT</lastBuildDate>
 
 <!-- Always add the newest ITEM to the top of the list -->
 		<item>
-			<title>Episode 7: Sirens and All That Can Seduce</title>
-			<description>Uche interviews poet, professor and mountain man David Rothman at Louisville Public Library, later joinng Kierstin in downtown Denver for discussion of many mountainous things.</description>
-			<itunes:summary>Uche interviews poet, professor and mountain man David Rothman at Louisville Public Library, later joinng Kierstin in downtown Denver for discussion of many mountainous things.</itunes:summary>
-			<itunes:subtitle>"I wonder who Donald Trump's mother slept with."</itunes:subtitle>
+			<title>Episode 8: Just Deserts</title>
+			<description>Kierstin interviews Joni Wallace In Tucson, Arizona in a set that brings poetry and sound together with much discussion of the genesis and threat of The Bomb. Uche and Kierstin bookend the interviews with the usual hijinks.</description>
+			<itunes:summary>Kierstin interviews Joni Wallace In Tucson, Arizona in a set that brings poetry and sound together with much discussion of the genesis and threat of The Bomb. Uche and Kierstin bookend the interviews with the usual hijinks.</itunes:summary>
+			<itunes:subtitle>"So it's going to be loud."</itunes:subtitle>
 			<itunesu:category itunesu:code="107105" />
-			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep7.mp3" type="audio/mpeg" length="98909959" />
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep8.mp3" type="audio/mpeg" length="87096551" />
+			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep8.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
+			<itunes:duration>1:00</itunes:duration>
+			<pubDate>Mon, 10 April 2017 00:00:00 MDT</pubDate>
+		</item>
+
+		<item>
+			<title>Episode 7: Fourteener</title>
+			<description>Uche interviews poet, professor and mountain man David J. Rothman at Louisville Public Library, later joining Kierstin in downtown Denver for discussion of many mountainous things.</description>
+			<itunes:summary>Uche interviews poet, professor and mountain man David J. Rothman at Louisville Public Library, later joining Kierstin in downtown Denver for discussion of many mountainous things.</itunes:summary>
+			<itunes:subtitle>"I wonder whom Donald Trump's mother slept with."</itunes:subtitle>
+			<itunesu:category itunesu:code="107105" />
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep7.mp3" type="audio/mpeg" length="65940263" />
 			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep7.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
 			<itunes:duration>1:08</itunes:duration>
 			<pubDate>Sun, 12 March 2017 00:00:00 MDT</pubDate>
