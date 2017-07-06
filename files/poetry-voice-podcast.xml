@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- http://bit.ly/poetryvoice -->
+<!-- https://bit.ly/poetryvoice -->
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 	<channel>
 		<link>http://poetryvoice.tumblr.com/</link>
@@ -24,16 +24,40 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://gonzaga.ogbuji.net/~uche/poetryvoice/cover1.jpg" />
 		<atom:link href="http://gonzaga.ogbuji.net/~uche/poetryvoice/podcast.xml" rel="self" type="application/rss+xml" /> <!-- The URL of this file -->
-		<pubDate>Mon, 10 April 2017 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
+		<pubDate>Sun, 25 June 2017 00:00:00 MDT</pubDate> <!-- http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock -->
 		<title>Poetry Voice, with Kierstin Bridger and Uche Ogbuji</title>
 		<itunes:author>Kierstin Bridger and Uche Ogbuji</itunes:author>
 		<description>Poetry Voice podcast takes the art of lovely words into the plentiful Colorado sunshine, keeping it lit. Much banter, decanters of laughter, featuring bards, and poetics they've mastered, with fresh interviews; all the news that stays news. From Colorado's Western slope and beyond.</description>
 		<itunes:summary>Poetry Voice podcast takes the art of lovely words into the plentiful Colorado sunshine, keeping it lit. Much banter, decanters of laughter, featuring bards, and poetics they've mastered, with fresh interviews; all the news that stays news. From Colorado's Western slope and beyond.</itunes:summary>
 		<itunes:subtitle>From the Western Slope to the world</itunes:subtitle>
 
-		<lastBuildDate>Mon, 10 April 2017 00:00:00 MDT</lastBuildDate>
+		<lastBuildDate>Sun, 25 June 2017 00:00:00 MDT</lastBuildDate>
 
 <!-- Always add the newest ITEM to the top of the list -->
+		<item>
+			<title>Episode 10: Mixtape #1</title>
+			<description>Uche stews up choice bits from the first 9 episodes of the podcast in a danceable broth, suitable as a fresh take for previous listeners, and a whirlwind introduction for new listeners.</description>
+			<itunes:summary>Uche stews up choice bits from the first 9 episodes of the podcast in a danceable broth, suitable as a fresh take for previous listeners, and a whirlwind introduction for new listeners.</itunes:summary>
+			<itunes:subtitle>"Come oh! Come oh, abeg my people make we gyrate small small Naija style."</itunes:subtitle>
+			<itunesu:category itunesu:code="107105" />
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep10.mp3" type="audio/mpeg" length="84263415" />
+			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep10.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
+			<itunes:duration>0:59</itunes:duration>
+			<pubDate>Sun, 25 June 2017 00:00:00 MDT</pubDate>
+		</item>
+
+		<item>
+			<title>Episode 9: How to Feed a Poet</title>
+			<description>Kierstin and Uche interview Joe Hutchinson, Colorado Poet Laureate at BookBar. Uche and Kierstin later complete the set at Weezy's in downtown Denver.</description>
+			<itunes:summary>Kierstin and Uche interview Joe Hutchinson, Colorado Poet Laureate at BookBar. Uche and Kierstin later complete the set at Weezy's in downtown Denver.</itunes:summary>
+			<itunes:subtitle>"From the Stomping grounds to the stomping on people grounds."</itunes:subtitle>
+			<itunesu:category itunesu:code="107105" />
+			<enclosure url="http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep9.mp3" type="audio/mpeg" length="102294801" />
+			<guid>http://gonzaga.ogbuji.net/~uche/poetryvoice/episodes/poetryvoice-ep9.mp3</guid> <!-- GUID URL is identical to Enclosure URL -->
+			<itunes:duration>1:11</itunes:duration>
+			<pubDate>Mon, 1 May 2017 00:00:00 MDT</pubDate>
+		</item>
+
 		<item>
 			<title>Episode 8: Just Deserts</title>
 			<description>Kierstin interviews Joni Wallace In Tucson, Arizona in a set that brings poetry and sound together with much discussion of the genesis and threat of The Bomb. Uche and Kierstin bookend the interviews with the usual hijinks.</description>

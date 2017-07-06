@@ -38,6 +38,49 @@ http://uogbuji.tumblr.com/post/142086453376/words-unsprung-from-p-38-of-ndewo-co
 
 # [poem]
 
+* updated: 2017-06-30
+* link: https://www.shanghailiterary.com/tslr-online/2017/6/8/after-ma-370
+* title: "After MA370"
+* source: https://www.shanghailiterary.com
+    * title: "The Shanghai Literary Review"
+* author: uogbuji
+* summary: Shipping carpets water below approaching
+Changi, banking over the storied port's spout
+End
+
+# [poem]
+
+* updated: 2017-06-21
+* link: https://www.sirseethegift.com/Words
+* title: "Mysteries of Harvest" & "Post Harvest"
+* source: https://www.sirseethegift.com/
+    * title: Sirsee
+* author: uogbuji
+* summary: Bounty by palm,
+Its wine-tap bole,
+Its kernel oil
+For new roast yam;
+
+
+# [poem]
+
+* updated: 2017-05-17
+* link: http://therondeauroundup.blogspot.com/2017/05/new-post-finalist-uche-ogbuji-learning.html
+* title: Hellgate
+* source: http://therondeauroundup.blogspot.com
+    * title: The Rondeau Roundup
+* author: uogbuji
+* category: @choice
+    * scheme: http://uche.ogbuji.net
+* summary: Passport out, eyeing the side hall soiled with wait–
+They’re lost who know what that passage is for,
+Deported, renditioned, unfortunate poor
+Supplicants and refugees burning in state
+Within their circles.
+
+
+# [poem]
+
 * updated: 2017-04-01
 * link: http://www.rogueagentjournal.com/uogbuji
 * title: Illegal Me

@@ -533,6 +533,8 @@ BODY_END = """<script>
 
 </script>"""
 
+WRITE_TAG_CLOUD = True
+
 # The possibility to extract metadata from the filename by using a
 # regular expression.
 # To make it work you need to name parts of your regular expression.
