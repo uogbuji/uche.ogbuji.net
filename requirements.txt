@@ -2,3 +2,7 @@ Nikola
 webassets
 jinja2
 markdown
+versa
+amara3-iri
+amara3-xml
+

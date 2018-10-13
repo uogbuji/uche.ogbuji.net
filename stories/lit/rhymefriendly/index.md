@@ -13,18 +13,18 @@ I hope this is also useful for people who are interested in contemporary arts, a
 ## Rhyme-friendly journals
 
 <main mv-app="rhymefriendly" mv-storage="https://github.com/uogbuji/uche.ogbuji.net/files/mavodata/rhymefriendly.json" mv-plugins="tinymce">
-<h1>
-	<img property="image" src="images/photo.jpg" alt="">
-	<span property="name">Grumpy Cat</span>
-</h1>
 
-<p property="description" class="tinymce">
-	<strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as <strong>Grumpy Cat</strong>, is a cat, Internet and media personality and actress...
-</p>
+<table>
+	<th>
+    <td>Title</td>
+    <td>Description &amp; notes</td>
+    <td>Examples</td>
+  </th>
+	<tr property="rfjournal" mv-multiple>
+    <td property="title"><span mv-if="count(rfjournal) = 0">[[Add a new title]]</span></td>
+    <td property="description" class="tinymce"><span mv-if="count(rfjournal) = 0">[[Add a new description]]</span></td>
+    <td property="examples" class="tinymce"><span mv-if="count(rfjournal) = 0">[[Add a some examples of rhyming poetry (optional)]]</span></td>
+  </tr>
+</table>
 
-<div class="links">
-	<a property class="twitter" href="https://twitter.com/RealGrumpyCat" target="_blank" title="Twitter">🐦</a>
-	<a property class="facebook" href="https://www.facebook.com/TheOfficialGrumpyCat" target="_blank" title="Facebook">f</a>
-	<a property class="wikipedia" href="https://en.wikipedia.org/wiki/Grumpy_Cat" target="_blank" title="Wikipedia">W</a>
-</div>
 </main>

@@ -16,7 +16,7 @@ SITE_URL = "http://uche.ogbuji.net/"
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "uche@ogbuji.net"
 #BLOG_EMAIL = ""
-BLOG_DESCRIPTION = "Uche Ogbuji: Igbo-American poet, editor, computer engineer, entrepreneur, etc."
+BLOG_DESCRIPTION = "Uche Ogbuji: Igbo-American poet, editor, engineer, entrepreneur, etc."
 
 # Nikola is multilingual!
 #
@@ -315,7 +315,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; 2012-2018         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com">Nikola</a>         {license}'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year,
