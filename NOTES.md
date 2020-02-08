@@ -1,14 +1,15 @@
 
 After update:
 
+```
 #sh sync.sh #No longer needed
 #ssh g
 source $HOME/.local/venv/py3/bin/activate
 cd ~/dev/uche.ogbuji.net
-pip install -U nikola
+pip install -U nikola jinja2
 nikola build
-rsync -avz output/* ../uogbuji.github.com/
-
+rsync -avz output/* uogbuji.github.com/ #Presuming deployment repo has been cloned to subdir
+```
 
 nikola serve     #Start the test server. Site will be at http://127.0.0.1:8000
 

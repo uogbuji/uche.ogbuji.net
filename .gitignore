@@ -6,3 +6,8 @@ sync.sh
 scratch/*
 
 *.pyc
+
+.doit.db
+
+# So I can directory nest the output/distribution repo without dealing with git submodule stuff
+uogbuji.github.com

@@ -291,6 +291,9 @@ THEME = "ndewotime"
 #     ("icon", "/favicon.ico", "16x16"),
 #     ("icon", "/icon_128x128.png", "128x128"),
 # }
+FAVICONS = {
+    ("icon", "/img/akara-blackhand.png", "173x173"),
+}
 
 # Show only teasers in the index pages? Defaults to False.
 # INDEX_TEASERS = False
