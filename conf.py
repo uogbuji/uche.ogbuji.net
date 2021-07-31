@@ -63,6 +63,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/tech', 'Tech'),
         ('/lit', 'Lit'),
+        ('/nchefu', 'Ńchéfù Road'),
         ('/ndewo', 'Ndewo, Colorado'),
         ('/poetryvoice', 'Poetry Voice'),
         #('/archive.html', 'Archives'),
@@ -96,10 +97,10 @@ NAVIGATION_LINKS = {
 # just independent HTML pages.
 #
 
-POSTS = (
-    ("posts/*/*.md", "blog", "post.tmpl"),
-    ("posts/*/*.txt", "blog", "post.tmpl"),
-)
+# POSTS = (
+#     ("posts/*/*.md", "blog", "post.tmpl"),
+#     ("posts/*/*.txt", "blog", "post.tmpl"),
+# )
 PAGES = (
     ("stories/*.md", "", "story.tmpl"),
     ("stories/*.txt", "", "story.tmpl"),
@@ -318,7 +319,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contents &copy; 2012-2018         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; 2012-2021         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com">Nikola</a>         {license}'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year,
@@ -413,7 +414,8 @@ PRETTY_URLS = True
 # done in the code, hope you don't mind ;-)
 # MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
 
-MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'tables']
+# Added https://python-markdown.github.io/extensions/attr_list/
+MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'tables', 'attr_list']
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
