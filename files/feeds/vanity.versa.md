@@ -23,6 +23,7 @@
 
 <!--
 
+
 # [article]
 
 * updated: 2018-XX-XX
@@ -40,10 +41,15 @@ Queue:
     
     https://www.xml.com/pub/a/2005/01/05/tr-xml.html
     https://www.infoq.com/news/2006/12/json-vs-xml-debate
+    https://www.gjsentinel.com/book-notes-aug-29/article_b52e0148-0698-11ec-8069-9f5b86d2f2b6.html
 
 Quick links:
     
 * http://www.tatteredcover.com/new-event-calendar#event-id-138026
+
+* http://itre.cis.upenn.edu/~myl/languagelog/archives/2005_06.html
+
+
 
 -->
 
@@ -245,6 +251,19 @@ Continue from: https://www.google.com/search?q=uche+ogbuji&source=lnms&tbm=bks&s
 * category: @choice
     * scheme: http://uche.ogbuji.net
 * summary: Join Western Slope Poet Laureate and long-time Crested Butte resident David J. Rothman for four sessions in which we consider the poetry…[including of] some diverse contemporary poets such as Mary Crow, Wendy Videlock, Aaron Abeyta, Rosemerry Trommer, Jim Tipton, Art Goodtimes, Uche Ogbuji, Dave Mason, Joe Hutchison and more.
+
+
+# [event]
+
+* updated: 2017-11-08
+* link: https://calendar.colorado.edu/event/belle_turnbull_and_the_legacy_of_colorado_poetry_a_symposium#.YS5uptNKibh
+* title: 
+Belle Turnbull and the Legacy of Colorado Poetry: A Symposium
+* source: https://calendar.colorado.edu/
+    * title: CU Boulder
+* author: 
+* summary: Colorado poets, writers, and historians will discuss the relevance of Belle Turnbull’s work today and how it can help us to understand the making of the contemporary American West. FEATURING: Art Goodtimes, Patty Limerick, Uche Ogbuji, Susan Spear, David J. Rothman, & Jeffrey R. Villines
+
 
 # [article]
 

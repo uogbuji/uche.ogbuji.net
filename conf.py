@@ -61,11 +61,12 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/tech', 'Tech'),
         ('/lit', 'Lit'),
+        ('/dj', 'ÚCHÈ720 (DJ)'),
         ('/nchefu', 'Ńchéfù Road'),
         ('/ndewo', 'Ndewo, Colorado'),
-        ('/poetryvoice', 'Poetry Voice'),
+        ('/tech', 'Tech'),
+        #('/poetryvoice', 'Poetry Voice'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
         #('/rss.xml', 'RSS'),

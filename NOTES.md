@@ -4,10 +4,11 @@ After update:
 ```
 #sh sync.sh #No longer needed
 #ssh g
-source $HOME/.local/venv/py3/bin/activate
+source $HOME/.local/venv/main/bin/activate
 cd ~/dev/uche.ogbuji.net
 pip install -U nikola jinja2
 nikola build
+# Test locally using `nikola serve`
 rsync -avz output/* uogbuji.github.com/ #Presuming deployment repo has been cloned to subdir
 ```
 
