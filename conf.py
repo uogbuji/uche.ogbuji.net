@@ -62,10 +62,12 @@ TRANSLATIONS = {
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/lit', 'Lit'),
-        ('/dj', 'ÚCHÈ720 (DJ)'),
         ('/nchefu', 'Ńchéfù Road'),
         ('/ndewo', 'Ndewo, Colorado'),
+        ('/dj', 'ÚCHÈ720 (DJ)'),
         ('/tech', 'Tech'),
+        ('https://linktr.ee/uche720', 'Social Media'),
+        ('https://loom.substack.com/', 'Newsletter'),
         #('/poetryvoice', 'Poetry Voice'),
         #('/archive.html', 'Archives'),
         #('/categories/index.html', 'Tags'),
